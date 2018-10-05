@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">chhaniya-FeelsBook</string>
+    <string name="comment">Optional Comment</string>
+    <string name="record">Record</string>
+    <string name="title">History of emotions</string>
+    <string name="count">Count</string>
+    <string-array name="emotion_array">
+        <item>Love</item>
+        <item>Joy</item>
+        <item>Surprise</item>
+        <item>Anger</item>
+        <item>Sadness</item>
+        <item>Fear</item>
+    </string-array>
+</resources>
